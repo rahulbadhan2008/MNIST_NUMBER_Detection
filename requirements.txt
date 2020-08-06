@@ -1,0 +1,12 @@
+numpy
+protobuf
+requests
+onnx
+onnxconverter-common>=1.7.0
+fire
+tensorflow=1.15.0
+keras
+opencv-python
+matplotlib
+keras2onnx
+onnxruntime
